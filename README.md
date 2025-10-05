@@ -31,6 +31,10 @@
 
 ###
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -83,10 +87,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <br clear="both">
 
 <div align="center">
@@ -119,12 +119,6 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=abdulkuyummasalik.abdulkuyummasalik&"  />
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
