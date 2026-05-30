@@ -183,6 +183,78 @@ const khoyum: Developer = {
 > ⚙️ **Setup Required:** Daftar di [wakatime.com](https://wakatime.com), install plugin di VSCode, lalu jalankan `waka-readme.yml`
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.75%20million%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 23 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 54 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                348 commits         ███████░░░░░░░░░░░░░░░░░░   29.82 % 
+🌆 Daytime                283 commits         ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
+🌃 Evening                376 commits         ████████░░░░░░░░░░░░░░░░░   32.22 % 
+🌙 Night                  160 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   275 commits         ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
+Tuesday                  215 commits         █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+Wednesday                150 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+Thursday                 118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+Friday                   139 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+Saturday                 120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+Sunday                   150 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               70 repos            ████████████░░░░░░░░░░░░░   47.95 % 
+Blade                    21 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+PHP                      20 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+Go                       4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/abdulkuyummasalik/abdulkuyummasalik/main/assets/bar_graph.png)
+
+
+ Last Updated on 30/05/2026 01:40:47 UTC
 <!--END_SECTION:waka-->
 
 ---
