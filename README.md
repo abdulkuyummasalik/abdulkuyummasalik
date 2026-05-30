@@ -1,266 +1,186 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,50:2E8B57,100:FF1493&height=200&section=header&text=KHOYUM&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Abdul%20Kuyum%20Masalik%20•%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" width="100%"/>
+<!-- ===== EPIC ANIMATED HEADER ===== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,30:16213e,60:0f3460,100:533483&height=300&section=header&text=KHOYUM&fontSize=100&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Abdul%20Kuyum%20Masalik%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=58&descAlign=50&descSize=20&descColor=a78bfa" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF1493&center=true&vCenter=true&random=false&width=600&lines=React+%7C+Laravel+%7C+FastAPI+%F0%9F%9A%80;Building+Scalable+Web+Applications+%F0%9F%92%BB;Clean+Code+%26+Modern+Design+%F0%9F%8E%A8;Bogor%2C+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
-
-</div>
+<!-- ===== TYPING ANIMATION ===== -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&random=false&width=700&height=60&lines=%F0%9F%9A%80+Full+Stack+Developer+%7C+Indonesia;%E2%9A%A1+React.js+%7C+Laravel+%7C+FastAPI;%F0%9F%8E%AF+Building+Scalable+Web+Applications;%F0%9F%92%A1+Clean+Code+%26+Modern+Design;%F0%9F%8C%8F+Open+for+Collaboration!" alt="Typing SVG" />
 
 <br>
 
-<table align="center" width="100%">
+<!-- ===== SOCIAL LINKS ===== -->
+<a href="https://www.linkedin.com/in/khoyummasalik/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/khoyum_28/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+</a>
+<a href="https://www.facebook.com/p/Khoyum-Masalik-61571450097317" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
+</a>
+<a href="mailto:abdulkuyummasalik@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://wa.me/6282246108750" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+<a href="https://www.khoyummasalik.my.id/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-%23533483.svg?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
+
+<br><br>
+
+<!-- ===== PROFILE VIEWS ===== -->
+<img src="https://komarev.com/ghpvc/?username=abdulkuyummasalik&style=for-the-badge&color=533483&label=PROFILE+VIEWS&abbreviated=true"/>
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> &nbsp; About Me
+
+<table>
 <tr>
-<td width="50%" align="center">
-<img src="https://img.shields.io/badge/💫_ABOUT_ME-FF1493?style=for-the-badge&logoColor=white" />
+<td width="55%">
 
 ```typescript
-const developer = {
-  name: "Abdul Kuyum Masalik",
-  location: "🌏 Bogor, Indonesia",
-  role: "Full Stack Developer",
-  passion: "Digital Solutions",
-};
-```
-
-</td>
-<td width="50%" align="center">
-<img src="https://img.shields.io/badge/🚀_TECH_FOCUS-2E8B57?style=for-the-badge&logoColor=white" />
-
-```javascript
-{
-  frontend: "React.js ⚛️",
-  backend: "Laravel 🎯",
-  api: "FastAPI ⚡",
-  design: "Modern & Clean 🎨"
-}
-```
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-FF1493?style=flat-square" width="100%"/>
-
-### 🌊 I specialize in building responsive, scalable, and user-focused web applications using React.js, Laravel, and FastAPI. Passionate about clean code, modern design, and continuous learning, I enjoy turning ideas into impactful digital solutions. 🌊
-
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-2E8B57?style=flat-square" width="100%"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/📊_GITHUB_STATISTICS-FF1493?style=for-the-badge&logoColor=white" height="40"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2" width="100%"/>
-
-</div>
-
-<table align="center" width="100%">
-<tr>
-<td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulkuyummasalik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF1493&text_color=2E8B57&order=2" height="180" alt="languages graph"  />
-</td>
-<td align="center" width="50%">
-<img src="https://streak-stats.demolab.com?user=abdulkuyummasalik&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=8&background=0d1117&ring=FF1493&fire=FF1493&currStreakLabel=2E8B57&order=3" height="180" alt="streak graph"  />
-</td>
-</tr>
-</table>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app?username=abdulkuyummasalik&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="160" alt="trophy graph"  />
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulkuyummasalik&radius=16&theme=react&area=true&bg_color=0d1117&color=FF1493&line=2E8B57&point=FF1493&order=5" height="300" alt="activity-graph graph" width="98%" />
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/🛠️_TECHNOLOGY_STACK-2E8B57?style=for-the-badge&logoColor=white" height="40"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2" width="100%"/>
-
-</div>
-
-<table align="center" width="100%">
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🎨_Frontend-FF1493?style=for-the-badge" />
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/⚙️_Backend-2E8B57?style=for-the-badge" />
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/📱_Mobile-FF1493?style=for-the-badge" />
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/💾_Database-2E8B57?style=for-the-badge" />
-</td>
-</tr>
-<tr>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind&theme=dark" />
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=php,laravel,python,fastapi,nodejs,nginx&theme=dark" />
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=flutter&theme=dark" />
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=dark" />
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/🔧_Tools_&_More-FF1493?style=for-the-badge" />
-
-<img src="https://skillicons.dev/icons?i=git,gitlab,vscode,figma,notion,wordpress&theme=dark" />
-
-</div>
-
-<div align="center">
-
-<table width="90%">
-<tr>
-<td>
-
-```javascript
-// 💻 Full Stack Arsenal
-const techStack = {
-  frontend: [
-    "HTML5",
-    "CSS3",
-    "JavaScript",
-    "TypeScript",
-    "React.js",
-    "Next.js",
-    "Bootstrap",
-    "Tailwind CSS",
+const khoyum: Developer = {
+  name     : "Abdul Kuyum Masalik",
+  alias    : "Khoyum 🌟",
+  location : "📍 Bogor, West Java, Indonesia",
+  role     : "Full Stack Developer",
+  
+  stack: {
+    frontend : ["React.js ⚛️", "Next.js", "TypeScript"],
+    backend  : ["Laravel 🎯", "FastAPI ⚡", "Node.js"],
+    mobile   : ["Flutter 📱"],
+    database : ["MySQL", "PostgreSQL"],
+  },
+  
+  currentlyLearning : [
+    "☁️  Cloud Architecture",
+    "🔬 Microservices",
+    "🤖 AI Integration",
   ],
-  backend: ["PHP", "Laravel", "Python", "FastAPI", "Node.js", "Nginx"],
-  mobile: ["Flutter"],
-  database: ["MySQL", "PostgreSQL"],
-  dataScience: ["Pandas"],
-  tools: ["Git", "GitLab", "VSCode", "Figma", "Notion", "WordPress"],
-  currentlyLearning: ["Microservices", "Cloud Architecture", "AI Integration"],
+  
+  availableForWork : true,   // ← hire me!
+  funFact : "I debug more than I sleep 😅",
+  motto   : "Code is Poetry 🎨",
 };
-
-console.log("🚀 Building the future with:", techStack);
 ```
 
 </td>
+<td width="45%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulkuyummasalik&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+
+</td>
 </tr>
 </table>
 
-</div>
+---
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> &nbsp; Tech Stack
+
 <div align="center">
 
-<img src="https://img.shields.io/badge/📫_CONNECT_WITH_ME-2E8B57?style=for-the-badge&logoColor=white" height="40"/>
+### 🎨 Frontend Development
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=dark&perline=8"/>
 
-<table align="center" width="90%">
-<tr>
-<td align="center" width="25%">
-<a href="https://wa.me/6282246108750" target="_blank">
-<img src="https://img.shields.io/badge/💬_Whatsapp-2E8B57?style=for-the-badge&logo=whatsapp&logoColor=white" height="35"/>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="https://www.instagram.com/khoyum_28/" target="_blank">
-<img src="https://img.shields.io/badge/📸_Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white" height="35"/>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="https://www.facebook.com/p/Khoyum-Masalik-61571450097317" target="_blank">
-<img src="https://img.shields.io/badge/📘_Facebook-2E8B57?style=for-the-badge&logo=facebook&logoColor=white" height="35"/>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="mailto:abdulkuyummasalik@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/📧_Gmail-FF1493?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
-</a>
-</td>
-</tr>
-<tr>
-<td align="center" width="25%">
-<a href="https://www.linkedin.com/in/khoyummasalik/" target="_blank">
-<img src="https://img.shields.io/badge/💼_LinkedIn-2E8B57?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
-</a>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/✈️_Telegram-FF1493?style=for-the-badge&logo=telegram&logoColor=white" height="35"/>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🎥_Youtube-2E8B57?style=for-the-badge&logo=youtube&logoColor=white" height="35"/>
-</td>
-<td align="center" width="25%">
-<a href="https://www.khoyummasalik.my.id/" target="_blank">
-<img src="https://img.shields.io/badge/🌐_Portfolio-FF1493?style=for-the-badge&logo=google-chrome&logoColor=white" height="35"/>
-</td>
-</tr>
-</table>
+### ⚙️ Backend Development
+<img src="https://skillicons.dev/icons?i=php,laravel,python,fastapi,nodejs,nginx&theme=dark&perline=8"/>
+
+### 📱 Mobile & Database
+<img src="https://skillicons.dev/icons?i=flutter,mysql,postgresql&theme=dark&perline=8"/>
+
+### 🛠️ Tools & Workflow
+<img src="https://skillicons.dev/icons?i=git,gitlab,github,vscode,figma,notion,wordpress,docker&theme=dark&perline=8"/>
 
 </div>
+
+---
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+## 📊 GitHub Statistics
+
 <div align="center">
 
-<img src="https://img.shields.io/badge/🐍_CONTRIBUTION_GRAPH-FF1493?style=for-the-badge&logoColor=white" height="40"/>
-
-<img src="https://raw.githubusercontent.com/abdulkuyummasalik/abdulkuyummasalik/output/snake.svg" alt="Snake animation" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdulkuyummasalik&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&custom_title=Khoyum%27s+GitHub+Stats"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=abdulkuyummasalik&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=6e7681&currStreakNum=ffffff&sideNums=ffffff&stroke=0d1117"/>
 
 </div>
 
-<br>
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=abdulkuyummasalik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulkuyummasalik&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=533483&point=a78bfa&area=true&hide_border=true&area_color=533483&custom_title=Khoyum%27s%20Contribution%20Graph" width="98%"/>
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🐍 My Contributions Eating Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdulkuyummasalik/abdulkuyummasalik/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdulkuyummasalik/abdulkuyummasalik/output/github-snake.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/abdulkuyummasalik/abdulkuyummasalik/output/github-snake.svg" width="100%"/>
+  </picture>
+</div>
+
+---
+
+## 💡 Dev Quote of the Day
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="90%"/>
+</div>
+
+---
+
+## ⏱️ Weekly Dev Breakdown
+
+<!--START_SECTION:waka-->
+> 🔍 **WakaTime stats will appear here once you set up the WakaTime GitHub Action**  
+> Follow: https://github.com/anmol098/waka-readme-stats
+<!--END_SECTION:waka-->
+
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<table width="90%">
-<tr>
-<td align="center" width="33%">
+### 🤝 Let's Build Something Amazing Together!
 
-<img src="https://img.shields.io/badge/🔥_STATS-2E8B57?style=flat-square&logoColor=white" />
-
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=abdulkuyummasalik.abdulkuyummasalik&color=2E8B57&logo=github)
-
-</td>
-<td align="center" width="34%">
-
-<img src="https://img.shields.io/badge/💎_QUOTE-FF1493?style=flat-square&logoColor=white" />
-
-**"Code is Poetry"**
-
-</td>
-<td align="center" width="33%">
-
-<img src="https://img.shields.io/badge/⚡_STATUS-2E8B57?style=flat-square&logoColor=white" />
-
-**Building Amazing Things** 🚀
-
-</td>
-</tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Open+for+freelance+%26+collaboration+%F0%9F%A4%9D;Drop+me+a+message+anytime!+%F0%9F%93%A9;Let%27s+turn+ideas+into+reality+%F0%9F%9A%80" alt="Typing SVG"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/⭐_Made_with_💚_by_Abdul_Kuyum_Masalik-FF1493?style=for-the-badge" />
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khoyummasalik/)
+[![Portfolio](https://img.shields.io/badge/View%20My%20Portfolio-%23533483.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://www.khoyummasalik.my.id/)
+[![Email](https://img.shields.io/badge/Send%20Me%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulkuyummasalik@gmail.com)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+⭐+Star+my+repos+if+you+like+them!;Let's+connect+and+build+something+amazing+together!+🚀;Open+Source+Contributor+%7C+Problem+Solver+%7C+Tech+Enthusiast" />
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,50:2E8B57,100:FF1493&height=120&section=footer" width="100%"/>
+<!-- ===== EPIC FOOTER ===== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:533483,50:0f3460,100:1a1a2e&height=160&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
 
 </div>
